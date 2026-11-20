@@ -1,0 +1,667 @@
+[
+ {
+  "start": 0.0,
+  "end": 0.34,
+  "word": "This"
+ },
+ {
+  "start": 0.34,
+  "end": 0.56,
+  "word": "is"
+ },
+ {
+  "start": 0.56,
+  "end": 0.84,
+  "word": "one"
+ },
+ {
+  "start": 0.84,
+  "end": 1.06,
+  "word": "of"
+ },
+ {
+  "start": 1.06,
+  "end": 1.34,
+  "word": "the"
+ },
+ {
+  "start": 1.34,
+  "end": 1.74,
+  "word": "first"
+ },
+ {
+  "start": 1.74,
+  "end": 2.19,
+  "word": "random"
+ },
+ {
+  "start": 2.19,
+  "end": 2.63,
+  "word": "events"
+ },
+ {
+  "start": 2.63,
+  "end": 2.91,
+  "word": "you"
+ },
+ {
+  "start": 2.91,
+  "end": 3.25,
+  "word": "can't"
+ },
+ {
+  "start": 3.25,
+  "end": 3.59,
+  "word": "miss"
+ },
+ {
+  "start": 3.59,
+  "end": 3.81,
+  "word": "in"
+ },
+ {
+  "start": 3.81,
+  "end": 4.09,
+  "word": "GTA"
+ },
+ {
+  "start": 4.09,
+  "end": 4.26,
+  "word": "6."
+ },
+ {
+  "start": 4.26,
+  "end": 4.48,
+  "word": "In"
+ },
+ {
+  "start": 4.48,
+  "end": 4.76,
+  "word": "the"
+ },
+ {
+  "start": 4.76,
+  "end": 5.27,
+  "word": "Leonida"
+ },
+ {
+  "start": 5.27,
+  "end": 5.6,
+  "word": "Keys,"
+ },
+ {
+  "start": 5.6,
+  "end": 5.88,
+  "word": "you"
+ },
+ {
+  "start": 5.88,
+  "end": 6.16,
+  "word": "can"
+ },
+ {
+  "start": 6.16,
+  "end": 6.5,
+  "word": "just"
+ },
+ {
+  "start": 6.5,
+  "end": 6.78,
+  "word": "see"
+ },
+ {
+  "start": 6.78,
+  "end": 6.95,
+  "word": "a"
+ },
+ {
+  "start": 6.95,
+  "end": 7.34,
+  "word": "plane"
+ },
+ {
+  "start": 7.34,
+  "end": 7.85,
+  "word": "falling"
+ },
+ {
+  "start": 7.85,
+  "end": 8.13,
+  "word": "out"
+ },
+ {
+  "start": 8.13,
+  "end": 8.35,
+  "word": "of"
+ },
+ {
+  "start": 8.35,
+  "end": 8.63,
+  "word": "the"
+ },
+ {
+  "start": 8.63,
+  "end": 8.91,
+  "word": "sky,"
+ },
+ {
+  "start": 9.06,
+  "end": 9.31,
+  "word": "and"
+ },
+ {
+  "start": 9.31,
+  "end": 9.51,
+  "word": "if"
+ },
+ {
+  "start": 9.51,
+  "end": 9.81,
+  "word": "that"
+ },
+ {
+  "start": 9.81,
+  "end": 10.25,
+  "word": "happens,"
+ },
+ {
+  "start": 10.25,
+  "end": 10.65,
+  "word": "follow"
+ },
+ {
+  "start": 10.65,
+  "end": 10.85,
+  "word": "it."
+ },
+ {
+  "start": 10.85,
+  "end": 11.2,
+  "word": "After"
+ },
+ {
+  "start": 11.2,
+  "end": 11.35,
+  "word": "a"
+ },
+ {
+  "start": 11.35,
+  "end": 11.7,
+  "word": "while"
+ },
+ {
+  "start": 11.7,
+  "end": 12.05,
+  "word": "you'll"
+ },
+ {
+  "start": 12.05,
+  "end": 12.35,
+  "word": "find"
+ },
+ {
+  "start": 12.35,
+  "end": 12.59,
+  "word": "the"
+ },
+ {
+  "start": 12.59,
+  "end": 12.94,
+  "word": "plane"
+ },
+ {
+  "start": 12.94,
+  "end": 13.54,
+  "word": "completely"
+ },
+ {
+  "start": 13.54,
+  "end": 13.99,
+  "word": "wrecked"
+ },
+ {
+  "start": 13.99,
+  "end": 14.19,
+  "word": "in"
+ },
+ {
+  "start": 14.19,
+  "end": 14.44,
+  "word": "the"
+ },
+ {
+  "start": 14.44,
+  "end": 14.83,
+  "word": "middle"
+ },
+ {
+  "start": 14.83,
+  "end": 15.03,
+  "word": "of"
+ },
+ {
+  "start": 15.03,
+  "end": 15.28,
+  "word": "the"
+ },
+ {
+  "start": 15.28,
+  "end": 15.63,
+  "word": "swamp,"
+ },
+ {
+  "start": 15.63,
+  "end": 15.88,
+  "word": "and"
+ },
+ {
+  "start": 15.88,
+  "end": 16.13,
+  "word": "the"
+ },
+ {
+  "start": 16.13,
+  "end": 16.48,
+  "word": "pilot"
+ },
+ {
+  "start": 16.48,
+  "end": 16.68,
+  "word": "is"
+ },
+ {
+  "start": 16.68,
+  "end": 17.02,
+  "word": "still"
+ },
+ {
+  "start": 17.02,
+  "end": 17.37,
+  "word": "there,"
+ },
+ {
+  "start": 17.37,
+  "end": 17.72,
+  "word": "dying"
+ },
+ {
+  "start": 17.72,
+  "end": 18.02,
+  "word": "near"
+ },
+ {
+  "start": 18.02,
+  "end": 18.27,
+  "word": "the"
+ },
+ {
+  "start": 18.27,
+  "end": 18.77,
+  "word": "wreckage,"
+ },
+ {
+  "start": 18.94,
+  "end": 19.22,
+  "word": "but"
+ },
+ {
+  "start": 19.22,
+  "end": 19.5,
+  "word": "the"
+ },
+ {
+  "start": 19.5,
+  "end": 19.83,
+  "word": "most"
+ },
+ {
+  "start": 19.83,
+  "end": 20.55,
+  "word": "interesting"
+ },
+ {
+  "start": 20.55,
+  "end": 20.89,
+  "word": "part"
+ },
+ {
+  "start": 20.89,
+  "end": 21.28,
+  "word": "comes"
+ },
+ {
+  "start": 21.28,
+  "end": 21.55,
+  "word": "now."
+ },
+ {
+  "start": 21.55,
+  "end": 21.89,
+  "word": "Look"
+ },
+ {
+  "start": 21.89,
+  "end": 22.22,
+  "word": "near"
+ },
+ {
+  "start": 22.22,
+  "end": 22.5,
+  "word": "the"
+ },
+ {
+  "start": 22.5,
+  "end": 22.89,
+  "word": "plane"
+ },
+ {
+  "start": 22.89,
+  "end": 23.17,
+  "word": "and"
+ },
+ {
+  "start": 23.17,
+  "end": 23.45,
+  "word": "you"
+ },
+ {
+  "start": 23.45,
+  "end": 23.72,
+  "word": "can"
+ },
+ {
+  "start": 23.72,
+  "end": 24.06,
+  "word": "find"
+ },
+ {
+  "start": 24.06,
+  "end": 24.56,
+  "word": "cocaine"
+ },
+ {
+  "start": 24.56,
+  "end": 24.95,
+  "word": "lying"
+ },
+ {
+  "start": 24.95,
+  "end": 25.17,
+  "word": "on"
+ },
+ {
+  "start": 25.17,
+  "end": 25.45,
+  "word": "the"
+ },
+ {
+  "start": 25.45,
+  "end": 25.89,
+  "word": "ground."
+ },
+ {
+  "start": 26.46,
+  "end": 26.72,
+  "word": "So"
+ },
+ {
+  "start": 26.72,
+  "end": 27.42,
+  "word": "obviously,"
+ },
+ {
+  "start": 27.42,
+  "end": 27.81,
+  "word": "grab"
+ },
+ {
+  "start": 27.81,
+  "end": 28.58,
+  "word": "everything."
+ },
+ {
+  "start": 28.58,
+  "end": 28.9,
+  "word": "But"
+ },
+ {
+  "start": 28.9,
+  "end": 29.28,
+  "word": "that"
+ },
+ {
+  "start": 29.28,
+  "end": 29.73,
+  "word": "plane"
+ },
+ {
+  "start": 29.73,
+  "end": 30.12,
+  "word": "also"
+ },
+ {
+  "start": 30.12,
+  "end": 30.44,
+  "word": "had"
+ },
+ {
+  "start": 30.44,
+  "end": 30.82,
+  "word": "more"
+ },
+ {
+  "start": 30.82,
+  "end": 31.34,
+  "word": "people"
+ },
+ {
+  "start": 31.34,
+  "end": 31.98,
+  "word": "watching"
+ },
+ {
+  "start": 31.98,
+  "end": 32.23,
+  "word": "it,"
+ },
+ {
+  "start": 32.23,
+  "end": 32.56,
+  "word": "and"
+ },
+ {
+  "start": 32.56,
+  "end": 32.88,
+  "word": "you"
+ },
+ {
+  "start": 32.88,
+  "end": 33.26,
+  "word": "have"
+ },
+ {
+  "start": 33.26,
+  "end": 33.52,
+  "word": "to"
+ },
+ {
+  "start": 33.52,
+  "end": 33.9,
+  "word": "take"
+ },
+ {
+  "start": 33.9,
+  "end": 34.35,
+  "word": "those"
+ },
+ {
+  "start": 34.35,
+  "end": 34.74,
+  "word": "guys"
+ },
+ {
+  "start": 34.74,
+  "end": 35.06,
+  "word": "out."
+ },
+ {
+  "start": 35.6,
+  "end": 35.97,
+  "word": "Once"
+ },
+ {
+  "start": 35.97,
+  "end": 36.47,
+  "word": "they're"
+ },
+ {
+  "start": 36.47,
+  "end": 36.84,
+  "word": "gone,"
+ },
+ {
+  "start": 36.84,
+  "end": 37.22,
+  "word": "just"
+ },
+ {
+  "start": 37.22,
+  "end": 37.59,
+  "word": "grab"
+ },
+ {
+  "start": 37.59,
+  "end": 37.9,
+  "word": "the"
+ },
+ {
+  "start": 37.9,
+  "end": 38.33,
+  "word": "drugs"
+ },
+ {
+  "start": 38.33,
+  "end": 38.64,
+  "word": "and"
+ },
+ {
+  "start": 38.64,
+  "end": 39.02,
+  "word": "take"
+ },
+ {
+  "start": 39.02,
+  "end": 39.39,
+  "word": "them"
+ },
+ {
+  "start": 39.39,
+  "end": 39.64,
+  "word": "to"
+ },
+ {
+  "start": 39.64,
+  "end": 40.14,
+  "word": "Brian's"
+ },
+ {
+  "start": 40.14,
+  "end": 40.82,
+  "word": "warehouse."
+ },
+ {
+  "start": 40.82,
+  "end": 41.13,
+  "word": "But"
+ },
+ {
+  "start": 41.13,
+  "end": 41.38,
+  "word": "be"
+ },
+ {
+  "start": 41.38,
+  "end": 41.81,
+  "word": "quick,"
+ },
+ {
+  "start": 41.81,
+  "end": 42.37,
+  "word": "because"
+ },
+ {
+  "start": 42.37,
+  "end": 42.68,
+  "word": "the"
+ },
+ {
+  "start": 42.68,
+  "end": 43.18,
+  "word": "police"
+ },
+ {
+  "start": 43.18,
+  "end": 43.49,
+  "word": "are"
+ },
+ {
+  "start": 43.49,
+  "end": 44.11,
+  "word": "watching"
+ },
+ {
+  "start": 44.11,
+  "end": 44.42,
+  "word": "too."
+ },
+ {
+  "start": 44.42,
+  "end": 44.73,
+  "word": "And"
+ },
+ {
+  "start": 44.73,
+  "end": 45.04,
+  "word": "you"
+ },
+ {
+  "start": 45.04,
+  "end": 45.42,
+  "word": "just"
+ },
+ {
+  "start": 45.42,
+  "end": 45.91,
+  "word": "turned"
+ },
+ {
+  "start": 45.91,
+  "end": 46.1,
+  "word": "a"
+ },
+ {
+  "start": 46.1,
+  "end": 46.6,
+  "word": "random"
+ },
+ {
+  "start": 46.6,
+  "end": 47.22,
+  "word": "accident"
+ },
+ {
+  "start": 47.22,
+  "end": 47.59,
+  "word": "into"
+ },
+ {
+  "start": 47.59,
+  "end": 47.97,
+  "word": "easy"
+ },
+ {
+  "start": 47.97,
+  "end": 48.4,
+  "word": "money."
+ }
+]
